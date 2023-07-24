@@ -1,0 +1,1 @@
+<?php echo "hello world! Reserved for enrollment system!"; ?>
